@@ -1,0 +1,23 @@
+{
+  "name": "lessons-4_iv",
+  "version": "1.0.0",
+  "description": "NPM",
+  "main": "index.js",
+  "scripts": {
+    "qwe":"ec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oksana07/lessons-4_IV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oksana07/lessons-4_IV/issues"
+  },
+  "homepage": "https://github.com/Oksana07/lessons-4_IV#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.11.0"
+  }
+}
